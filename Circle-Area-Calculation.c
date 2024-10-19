@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 // The program always starts with int main ()
-// On commance toujours un programme avec int main ()
+// On commence toujours un programme avec int main ()
 
 int main () {
    // First, we declare constants
