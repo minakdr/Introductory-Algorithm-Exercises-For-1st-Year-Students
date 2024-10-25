@@ -1,5 +1,5 @@
 // We need this library to be able to use the printf and scanf functions
-// Nous avons besoin de cette bibliothèque pour utiliser les fonctions printf et scanf
+// Nous avons besoin de cette bibliothÃ¨que pour utiliser les fonctions printf et scanf
 #include <stdio.h>
 
 // The program always starts with int main()
@@ -7,7 +7,7 @@
 int main() {
 
     // Declare integer variables to store user inputs and results
-    // Déclaration de variables entières pour stocker les entrées utilisateur et les résultats
+    // DÃ©claration de variables entiÃ¨res pour stocker les entrÃ©es utilisateur et les rÃ©sultats
     int num1, num2, somme, produit, diff;
     printf("Donnez les 2 numeros: ");
 
@@ -16,7 +16,7 @@ int main() {
     scanf("%d %d", &num1, &num2);
 
     // Calculate the sum,the product and the difference of the two numbers
-    // Calcule la somme, le produit et la différencedes deux nombres
+    // Calcule la somme, le produit et la diffÃ©rencedes deux nombres
     somme = num1 + num2;
     produit = num1 * num2;
     diff = num1 - num2;
