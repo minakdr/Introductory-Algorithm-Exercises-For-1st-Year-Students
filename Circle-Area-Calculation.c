@@ -1,3 +1,6 @@
+// We need this library to be able to use the printf and scanf functions
+// Nous avons besoin de cette bibliothèque pour utiliser les fonctions printf et scanf
+
 #include <stdio.h>
 
 // The program always starts with int main ()
